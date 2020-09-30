@@ -35,6 +35,6 @@
     "redux-thunk": "2.0.1"
   },
   "peerDependencies": {
-    "react": "^0.14.0 || ^15.0.x"
+    "react": "^0.14.0 || ^15.0.x || ^16.0.0"
   }
 }

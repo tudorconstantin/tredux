@@ -27,7 +27,7 @@
     "url": "https://github.com/Stiudeo/tredux/issues"
   },
   "dependencies": {
-    "deep-assign": "2.0.0",
+    "deep-assign": "3.0.0",
     "react-redux": "7.2.1",
     "redux": "4.0.5",
     "redux-logger": "3.0.6",
